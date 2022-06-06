@@ -1,0 +1,40 @@
+.texto{
+    font-size: 2.5vw;
+    color: rgb(53, 158, 109);
+    font-weight: bold;
+   text-align: center;
+   font-family: 'Roboto Condensed', sans-serif;
+  }
+.textogal{
+  font-size: 4vw;
+  color: rgb(53, 158, 109);
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.texto1{
+   font-size: 1vw;
+   color: rgb(0, 36, 19);
+   font-weight: normal;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.texto2{
+    font-size: 1.5vw;
+    color: rgb(0, 36, 19);
+    font-weight: bold;
+   text-align: justify;
+   font-family: 'Roboto Condensed', sans-serif;
+  }
+.separacao{
+  background-color: red;
+  min-height: 30%;
+}
+.full{
+  height: 100vh;
+}
+
+.trilha{
+  width: 100%;
+  
+}
